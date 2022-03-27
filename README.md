@@ -4,4 +4,5 @@ It searches for available blogs in a range and returns the name of blogs which a
 
 # To run
 use python3.
-Enter the range of ids you wish to view names of.
+
+Enter the range of ids and it will return ids and corrseponding blog name if available
